@@ -1,0 +1,33 @@
+
+ .navbar{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: white;
+  padding: 15px 40px;
+}
+
+.logo{
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.nav-items{
+  display: flex;
+  list-style: none;
+  gap: 30px;
+}
+
+.nav-items li{
+  cursor: pointer;
+  font-size: 18px;
+  color:black;
+}
+.search-bar input{
+    background-color: white;
+    border: solid 1px gainsboro;
+    color:gainsboro;
+    border-radius: 7px;
+
+
+}
