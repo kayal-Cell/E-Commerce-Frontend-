@@ -4,6 +4,7 @@ function Navbar() {
   return (
    
     <nav className="navbar">
+    
       <ul className="nav-items">
         <li>Home</li>
         <li>Products</li>

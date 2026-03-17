@@ -1,0 +1,14 @@
+.footer-items th,td{
+     padding :20px;
+}
+.footer-items table {
+  border-collapse: separate;
+  border-spacing: 0; 
+}
+.footer-items{
+    background-color:white;
+    color: black;
+}
+.copyright{
+    padding: 10px;
+}
